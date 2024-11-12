@@ -1,0 +1,16 @@
+.team-logo {
+    width: 50px; 
+    height: auto; 
+}
+
+.Table {
+    margin: 20px 0; 
+}
+
+.MuiTableRow-root {
+    cursor: pointer; 
+}
+
+.MuiTableRow-root:hover {
+    background-color: rgba(0, 0, 0, 0.1); 
+}

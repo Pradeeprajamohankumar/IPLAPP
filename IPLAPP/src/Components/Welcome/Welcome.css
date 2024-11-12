@@ -1,0 +1,8 @@
+.Welcome-container{
+    text-align: center;
+    color: black;
+    font-size:30px;
+    font-weight: 700;
+    font-family:'Roboto', 'Helvetica', 'Arial', sans-serif;
+    padding: 25px;
+}
